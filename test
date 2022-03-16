@@ -1,0 +1,9 @@
+for test
+uni.
+星月与梦之诗.
+>>>set uni. server 6 = I;
+>>>set UNI. db 6 =I;
+end test;
+end process;
+end all;
+end;//
