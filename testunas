@@ -1,0 +1,4 @@
+su uni.admin;
+cd /root/etc/test;
+test all;
+end test;
